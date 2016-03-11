@@ -61,3 +61,5 @@ def calc_place_pscore(place):
     log.info('Average Risk: {}'.format(avg_risk))
     log.info('Median Risk: {}'.format(median_risk))
     log.info('Versus "{}" Risk: {}'.format(place['name'], place_risk))
+
+    return place_risk, nearby_risks
