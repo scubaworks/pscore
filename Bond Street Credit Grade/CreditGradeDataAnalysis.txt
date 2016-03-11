@@ -1,0 +1,8 @@
+Credit Grade Data Analysis & Web Service
+========================================
+
+Create a RESTful web service that returns a credit grade when fed data about an individual business. Credit grade is a
+measure of credit quality with A1 being the highest and D5 being the lowest.
+
+`sample_data.csv` is historical data on loans that have already been underwritten, including the final `credit_grade`
+that was assigned to them. Use this historical data to inform the design of your new credit grading algorithm.

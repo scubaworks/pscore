@@ -1,0 +1,199 @@
+loan_purpose,legal_structure,approved_amount,term_months,dscr,vantage_score_3_weighted,fico_score_weighted,intelliscore,bdfs_score,credit_grade,business_founding_date,annual_revenue,business_category,organization_state,connected_quickbooks,connected_bank
+expand,s_corp,50000,36,2.37,650,769,74,472,A4,2004-08-01,330000,Upholstered Household Furniture Manufacturing,NY,False,True
+outfit,c_corp,50000,36,1.2,712,755,99,491,B4,1993-02-01,462725,Convenience Stores,AZ,False,False
+operate,s_corp,50000,36,2.53,631,632,27,360,D1,2007-05-01,1164466,541400,NY,False,True
+new_business,s_corp,50000,24,4.26,713,725,39,521,A4,2012-07-01,1500000,713940,NY,True,True
+operate,s_corp,40000,36,1.22,617,703,29,265,D2,2009-08-01,620000,238300,SC,False,True
+expand,llc_single,120000,36,1.92,633,645,52,472,C5,2013-04-01,505000,423990,WY,False,True
+refinance,s_corp,30000,36,3.47,750,779,10,152,C3,1998-07-01,250000,811210,VA,False,True
+expand,sole_prop,50000,36,1.98,661,722,85,417,B4,2012-11-01,380000,511000,VA,False,True
+expand,llc_multiple,50000,12,1.42,718,734,85,537,A3,2013-09-01,423871,448120,MN,False,True
+other,llc_single,30000,36,17.06,627,637,28,None,B3,2011-10-01,341801,Administrative Management and General Management Consulting Services,TX,False,True
+expand,llc_single,100000,36,1.19,821,821,35,639,B1,2001-12-01,550000,561520,NY,True,True
+expand,llc_single,300000,36,2.33,812,820,92,608,A2,2010-01-01,1500000,711510,DE,False,True
+operate,llc_single,40000,36,2.26,707,696,64,486,A5,2012-03-01,210000,611620,TX,False,True
+expand,s_corp,150000,36,1.4,754,777,63,485,A3,2012-06-01,850000,722511,OR,False,True
+expand,c_corp,100000,36,1.67,779,784,36,496,B1,2012-04-01,430000,541511,NC,False,False
+other,s_corp,360000,36,2,691,693,24,430,B3,2008-06-01,2500000,453990,MI,False,True
+outfit,llc_single,50000,24,3.3,619,644,28,None,C1,2012-01-01,350000,512100,VA,False,True
+expand,llc_multiple,50000,24,1.86,652,698,23,475,C2,2013-12-01,500000,541110,IL,False,True
+operate,s_corp,350000,36,1.89,708,741,42,499,B3,2000-12-01,2100000,541611,VA,False,True
+expand,s_corp,150000,36,1.5,646,728,66,475,C4,1999-01-01,1600000,541519,SC,False,True
+operate,llc_single,60000,36,1.22,810,839,66,563,A3,2010-01-01,300000,611610,TX,False,True
+operate,s_corp,70000,36,1.33,685,693,40,482,C3,2007-07-01,2000000,238900,GA,False,True
+expand,llc_multiple,100000,36,2.04,770,790,50,None,A3,2012-04-01,750000,722300,NY,False,True
+outfit,c_corp,200000,24,1.78,706,706,3,460,C1,2013-03-01,1927550,517210,MI,False,True
+refinance,llc_single,300000,36,1.56,788,767,55,478,A4,2010-12-01,3700000,454111,FL,False,False
+expand,s_corp,45000,36,1.83,741,769,999,0,A2,2012-05-01,200000,All Other Miscellaneous Ambulatory Health Care Services,UT,False,True
+other,c_corp,150000,36,1.15,700,693,65,50,B4,2007-08-01,3393397,Other Services Related to Advertising,NY,True,False
+refinance,sole_prop,50000,36,2.18,663,713,85,440,A4,2012-06-01,630000,Product Design,NY,True,False
+new_business,other,200000,36,6.82,747,744,19,513,A2,2003-07-01,3547229,Food and Beverage,NY,False,False
+outfit,s_corp,150000,24,4.2,779,736,70,533,A3,2004-01-01,2200000,Medical Revenue Cycle Mgmt,FL,True,True
+expand,llc_multiple,250000,36,9.05,750,714,75,445,A5,2008-04-01,1428138,"Financial Transactions Processing, reserve and clearinghouse activities",FL,True,True
+expand,s_corp,50000,36,1.27,677,764,12,512,B4,2007-02-01,500190,Fashion,NY,False,True
+operate,llc_multiple,125000,36,2.28,629,719,51,519,B2,2005-07-01,4500000,Coffee Retail,NY,False,True
+new_business,llc_multiple,175000,36,4.27,745,734,37,440,A2,2003-03-01,2934920,Coffee and Tea Manufacturing,NY,False,True
+expand,llc_multiple,75000,36,1.3,685,732,53,474,C1,2011-03-01,500000,Art Gallery,NY,False,True
+operate,s_corp,130000,24,1.59,623,None,68,510,C2,2009-02-01,1000000,Wholesale Trade Agents and Brokers,NC,False,True
+inventory,llc_multiple,50000,36,1.99,668,655,77,None,B3,2012-11-01,460555,Sporting Goods Store - Online,PA,True,True
+expand,llc_multiple,35000,36,1.16,695,703,None,504,C4,2013-02-01,405000,Refurbished Products Retail,KY,False,True
+new_business,s_corp,100000,36,1.22,650,667,22,488,B5,2005-09-01,2555000,Retail Bakery,NY,False,True
+expand,llc_single,150000,24,1.41,662,664,44,409,C2,2003-06-01,2800000,Ticketing Software and Services,AZ,False,False
+buyout,c_corp,200000,36,2.82,669,715,58,420,B4,2007-11-01,3400000,Digital Agency,NY,False,True
+refinance,s_corp,100000,36,3.96,654,704,54,495,C2,2009-05-01,882000,Furniture Design and Build,NY,False,True
+expand,c_corp,500000,24,5.13,743,723,28,None,A4,2012-10-01,12037839,Mattress Manufacturing & Sales,AZ,True,True
+expand,llc_multiple,500000,36,3.12,768,768,25,279,A3,2004-01-01,11000000,"Interior Design Services, Branding, Graphic Design",NY,False,True
+inventory,llc_multiple,200000,12,1.92,645,698,36,521,B3,2009-06-01,4000000,Outdoor Apparel and Accessories,PA,False,False
+expand,s_corp,250000,36,1.43,773,767,84,562,A3,2007-06-01,1200000,Educational Support Services,NY,False,True
+remodel,llc_multiple,60000,36,11.06,688,513,63,443,A1,2012-01-01,2810000,Limited Service Restaurants,NY,False,False
+new_business,s_corp,75000,36,2.14,691,691,58,438,B3,2003-08-01,1500000,Consignment and Resale Women's Clothing and Accessories,CA,False,True
+expand,llc_single,100000,36,1.83,807,777,39,566,A3,2011-04-01,1000000,Fashion,NY,False,True
+operate,s_corp,50000,36,1.25,639,679,45,482,D2,2001-01-01,500000,Jewelry and Silverware Manufacturing,NY,False,True
+expand,s_corp,75000,36,1.31,746,671,62,412,A5,2007-02-01,1167226,Commercial And Institutional Building Construction,NC,False,True
+new_business,llc_multiple,200000,36,1.7,629,677,47,460,C4,2010-05-01,1117421,Misc Financial Investment Activities,FL,False,True
+operate,sole_prop,50000,12,1.36,618,622,26,None,B2,2011-07-01,316352,Educational Support Services/School of Music,NY,True,True
+expand,s_corp,150000,24,1.53,617,673,28,494,D1,1999-01-01,1500000,Test Prep and College Counseling,CA,False,True
+new_business,llc_multiple,150000,36,6.34,615,615,46,316,C3,2012-06-01,1186743,Other Services Related to Advertising,NY,True,True
+operate,partnership,250000,36,6.2,791,798,72,None,A4,2012-08-01,1488565,Offices of Lawyers,CA,True,True
+inventory,llc_multiple,40000,24,2.38,676,693,46,566,B3,2012-01-01,277200,Apparel Accessories and Other Apparel Manufacturing,NY,True,True
+refinance,s_corp,50000,24,1.49,585,619,55,452,D3,2011-01-01,230000,Commercial Printing (except Screen and Books),FL,False,True
+new_business,llc_multiple,90000,36,0.08,594,647,8,296,D3,2008-04-01,838077,Beauty Salons,NY,False,True
+refinance,s_corp,100000,36,1.18,557,692,25,499,C1,2013-12-01,186854,Fitness,DE,False,False
+operate,partnership,300000,24,2.1,770,820,47,577,A3,2003-10-01,1000000,Architectural Services,NY,False,True
+inventory,llc_single,70000,12,1.2,779,734,45,533,A2,2010-06-01,709561,Stationery Product Manufacturing,NY,True,True
+expand,s_corp,50000,24,1.2,638,618,85,0,C3,2012-01-01,714000,Commercial and Institutional Building Construction,MO,False,True
+inventory,s_corp,300000,12,1.22,707,670,71,516,B1,2010-02-01,8200000,Internet sales ,NY,False,True
+expand,c_corp,75000,24,1.21,763,681,39,570,B3,2005-10-01,6929215,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",NY,False,True
+refinance,llc_multiple,400000,36,2.11,661,647,27,447,D1,2012-06-01,2000000,Coffee and Tea Manufacturing,IL,False,False
+inventory,c_corp,315000,12,1.16,652,676,51,457,B4,2007-02-01,9444276,Other Lighting Equipment Manufacturing,DE,True,True
+outfit,sole_prop,30000,36,3.49,701,734,50,499,B1,2010-07-01,506000,722330,CA,False,True
+new_business,sole_prop,50000,24,1.94,703,679,46,452,B1,2012-10-01,295686,Limited-Service Restaurants,CA,True,True
+new_business,llc_multiple,60000,36,1.95,671,715,45,443,C2,2008-03-01,260000,Women's Clothing Stores,DE,False,True
+expand,llc_multiple,150000,36,2.66,684,654,27,464,C1,2009-12-01,318000,541618,NJ,False,True
+expand,llc_multiple,300000,36,1.21,698,733,98,455,A5,2013-02-22,909913,Church Software,NC,True,True
+expand,llc_multiple,50000,36,1.27,629,699,63,495,D1,2010-08-01,400000,Freight Transportation Arrangement,WA,False,True
+expand,llc_multiple,85000,36,1.53,661,671,58,542,C5,2011-07-01,1105078,Services for the Elderly and Persons with Disabilities,CA,False,False
+refinance,llc_multiple,250000,36,1.24,751,739,60,522,B3,2009-02-01,1083182,All Other Health and Personal Care Stores,NJ,True,True
+refinance,s_corp,100000,36,1.66,740,721,27,464,C1,2010-12-01,2000000,Online Furniture Retailer,FL,False,True
+remodel,s_corp,50000,36,2.1,637,658,41,420,D2,2012-03-01,500000,Health and Fitness,NY,False,True
+operate,llc_single,200000,36,1.23,781,779,54,271,A3,2009-07-15,1500000,Advertising Agencies,CA,False,True
+inventory,llc_multiple,125000,24,1.84,709,760,None,529,A5,2013-08-01,500000,ecommerce,WA,True,True
+expand,llc_multiple,50000,24,1.8,602,623,42,510,C5,2013-05-01,163682,Personal Training & Nutrition,CA,True,True
+outfit,s_corp,80000,24,2.05,751,792,20,554,B4,2004-12-01,700000,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",CA,False,True
+inventory,s_corp,250000,12,1.21,765,779,15,495,B1,2009-08-01,3965000,"Doll, Toy, and Game Manufacturing",NY,False,True
+expand,s_corp,350000,36,1.63,660,700,45,527,D1,2011-09-01,1682430,Engineering Services,IL,True,True
+refinance,llc_multiple,300000,36,2.05,642,689,61,492,B5,2011-08-01,2271838,Caterers,NJ,True,True
+refinance,s_corp,210000,36,1.6,674,700,43,443,C2,1998-04-01,2000000,Other Scientific and Technical Consulting Services,NJ,False,False
+operate,llc_multiple,500000,36,1.52,762,762,39,446,A4,2008-07-01,3200000,Restaurant Management + Consulting,DE,False,True
+inventory,llc_multiple,100000,12,1.12,657,730,44,442,B2,2010-01-01,5499333,Sporting and Recreational Goods and Supplies Merchant Wholesalers,NY,True,True
+remodel,llc_multiple,125000,36,2.01,738,740,68,491,A5,2013-01-01,700000,"Beer, Wine, and Liquor Stores",CA,False,True
+expand,s_corp,100000,36,1.37,649,695,51,462,C5,2009-12-01,1064817,Offices of Lawyers,SC,False,False
+inventory,llc_multiple,250000,12,1.25,646,709,51,479,A5,2007-01-01,4005000,Retail,PA,False,False
+new_business,llc_multiple,150000,36,1.76,703,790,30,555,B5,2011-01-01,4000000,Auto Sales/Finance,MO,False,True
+expand,llc_multiple,100000,24,1.5,722,768,70,514,A5,1995-06-01,9000000,Commercial and Institutional Building Construction,MI,False,True
+refinance,llc_multiple,235000,36,1.2,692,738,27,464,D1,2013-06-01,1900000,Full-Service Restaurants,KS,False,True
+inventory,s_corp,200000,36,1.56,751,772,56,513,A5,2011-08-01,600000,Apparel Accessories and Other Apparel Manufacturing,DE,False,True
+operate,s_corp,50000,36,1.25,817,844,55,571,B3,2009-01-01,168818,Home Health Care Services,IL,False,True
+refinance,s_corp,70000,36,1.97,682,746,17,489,C1,2012-10-01,320000,Fashion Retail,NY,False,False
+inventory,llc_single,60000,36,1.24,666,718,95,469,A4,1993-01-01,300000,Other Activities Related to Real Estate,ID,False,True
+expand,llc_multiple,150000,36,3.83,747,723,0,565,A4,2014-08-01,651986,Graphic Design Services,GA,True,True
+expand,sole_prop,50000,36,1.1,641,726,32,497,C1,1988-09-01,266713,Interior Design Services,NY,False,True
+refinance,s_corp,55000,36,1.15,630,679,70,367,C1,2011-05-01,458000,Landscaping Services,IN,False,True
+inventory,c_corp,80000,36,1.41,630,672,90,517,B2,2014-04-01,875000,Sports equipment,DE,False,True
+inventory,llc_single,100000,36,1.66,671,734,50,454,B5,2013-02-01,410223,Recreational Goods Rental,DE,True,True
+expand,llc_single,75000,36,1.44,648,659,23,522,D2,2010-06-01,396639,Local Messengers and Local Delivery,NJ,True,True
+expand,llc_single,150000,36,1.5,768,716,28,506,C1,2011-01-01,296194,Directory and Mailing List Publishers,VA,True,True
+remodel,llc_single,75000,36,1.24,754,718,None,511,B1,2009-03-01,1156791,Beauty Salons,NH,False,True
+expand,s_corp,100000,24,2.29,647,673,38,None,B5,2012-09-01,620000,Apparel Accessories and Other Apparel Manufacturing,ID,False,True
+expand,s_corp,100000,24,4.12,690,781,781,483,B1,2013-09-01,340200,All Other Personal Services,UT,False,True
+expand,llc_single,50000,24,2.88,613,680,36,None,C2,2014-03-01,481000,Software,DE,False,True
+expand,s_corp,125000,36,1.76,662,721,52,431,B4,2011-08-01,355000,Other Sound Recording Industries,NY,False,False
+refinance,llc_single,75000,36,1.64,665,683,37,486,C4,2011-01-01,930112,"All Other Professional, Scientific, and Technical Services",IL,False,True
+expand,llc_single,40000,36,3.28,679,737,43,548,A4,2011-11-01,226000,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",MD,False,True
+new_business,llc_multiple,200000,36,3.78,800,749,25,545,A1,2009-02-01,2800000,Hospitality,NY,False,False
+inventory,llc_single,60000,36,1.2,653,710,64,547,D2,2011-07-01,500000,ECommerce,NE,False,True
+refinance,llc_multiple,200000,36,3.63,622,702,65,520,B5,2009-07-01,1200000,Fitness and Recreational Sports Centers,MN,False,True
+operate,partnership,375000,36,1.24,752,770,28,411,A5,2012-03-01,3254991,Full-Service Restaurants,DE,False,False
+remodel,llc_single,350000,36,1.55,749,749,37,465,A3,2010-04-01,4000000,Full-Service Restaurants,KY,False,True
+expand,llc_multiple,200000,24,2.82,633,686,51,516,B2,2005-08-01,5700000,Coffee and Tea Manufacturing,NY,False,True
+expand,s_corp,150000,24,1.46,696,696,12,467,C4,1996-11-01,1500000,Full-Service Restaurants,PA,False,True
+inventory,llc_single,500000,24,1.65,645,665,17,467,B1,2003-05-01,18000000,Fashion/Retail,WA,False,True
+expand,s_corp,100000,36,1.98,689,680,20,445,D2,2007-02-01,606733,"All Other Professional, Scientific, and Technical Services",DE,False,True
+expand,s_corp,50000,36,1.45,738,749,41,505,B5,2006-11-01,494757,Fashion -- Showroom Operation & PR for independent designers,NY,False,False
+refinance,llc_multiple,400000,36,2.09,682,676,58,516,A5,2012-05-01,2000000,Beauty Salons,CA,False,True
+expand,llc_single,500000,36,5.74,779,832,47,456,A4,2005-10-01,3500000,Exam Preparation and Tutoring,CA,True,True
+outfit,c_corp,150000,24,1.27,626,707,28,533,C1,2001-01-01,970000,Administrative Management and General Management Consulting Services,NV,False,False
+new_business,llc_single,60000,36,1.23,672,695,43,None,C5,2010-10-01,525000,Nail Salons,FL,False,True
+expand,llc_multiple,400000,36,6.1,751,737,None,486,B1,2013-11-01,8000000,Internet Publishing and Broadcasting and Web Search Portals,FL,False,True
+refinance,sole_prop,70000,36,1.47,632,637,51,500,C2,2010-08-01,400000,Apparel Accessories and Other Apparel Manufacturing,OH,False,True
+operate,llc_multiple,50000,36,1.45,738,749,41,505,B5,2011-02-01,2300000,Caterers,CO,False,False
+refinance,llc_multiple,200000,36,1.79,683,716,94,567,A3,2010-01-01,500000,Other Building Material Dealers,CT,False,True
+refinance,llc_multiple,100000,36,1.79,675,707,63,469,B2,2010-01-01,1100000,Limited-Service Restaurants,IL,False,False
+operate,c_corp,400000,36,2.78,665,715,72,392,A4,1996-01-01,5400000,Business to Business Electronic Markets,CA,False,True
+expand,llc_single,80000,36,2.3,781,745,54,531,A4,2013-03-01,350000,Other Clothing Stores,NJ,False,True
+expand,s_corp,25000,36,2.16,717,711,34,450,B5,2014-02-01,250000,All Other Specialty Food Stores,MA,False,False
+expand,c_corp,300000,36,1.85,743,812,67,444,A5,2002-05-01,10000000,"Brick, Stone, and Related Construction Material Merchant Wholesalers",CA,False,False
+refinance,llc_multiple,400000,36,1.82,690,713,12,486,A5,2006-05-01,4168926,Barber Shops,NY,False,True
+new_business,llc_multiple,400000,36,2.44,721,722,35,430,B1,2009-03-01,12000000,722511,NY,False,True
+refinance,s_corp,60000,36,4.28,666,641,76,496,A5,2005-01-01,300000,Retail/ Arts,CA,False,True
+refinance,llc_single,105000,36,1.32,644,678,79,520,C4,2007-01-01,1300000,Dental Laboratories,Oh,False,True
+operate,llc_multiple,30000,36,2.82,716,707,78,469,B2,2012-11-01,380000,713940,TX,False,False
+expand,s_corp,65000,24,1.53,698,702,39,490,B3,2010-07-01,520000,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,GA,False,True
+new_business,llc_multiple,70000,36,1.41,753,771,73,497,A4,2009-08-01,300000,Fitness and Recreational Sports Centers,IL,False,True
+expand,llc_single,100000,36,3.52,661,696,56,264,C1,2013-07-01,1000000,Fitness and Recreational Sports Centers,DE,False,False
+other,s_corp,125000,36,2.22,683,668,37,None,B1,2010-01-01,350000,"General Freight Trucking, Local",MT,False,True
+operate,s_corp,100000,12,2.31,690,705,0,464,A4,2009-01-01,600000,812990,NY,False,True
+refinance,c_corp,100000,36,1.1,779,754,37,516,A4,2004-07-01,1300000,Other Construction Material Merchant Wholesalers,CO,False,False
+expand,llc_multiple,200000,36,1.49,652,731,None,465,B5,2009-06-01,1400000,Custom Computer Programming Services,NC,True,False
+expand,llc_multiple,50000,36,2.93,675,692,22,536,B4,2013-01-01,300000,Apparel Accessories and Other Apparel Manufacturing,NY,False,True
+operate,llc_multiple,75000,36,1.33,643,621,88,532,C1,2013-04-01,600000,711300,NY,False,True
+new_business,llc_multiple,325000,36,1.33,656,668,28,313,B5,2013-11-01,1500000,Limited-Service Restaurants,MA,False,True
+expand,llc_single,250000,36,2.02,671,689,66,370,B1,2010-01-01,1600000,722511,NY,False,True
+expand,llc_single,150000,36,1.3,806,811,73,485,A4,2003-01-01,810368,Software,MA,True,True
+remodel,s_corp,100000,24,5.29,724,722,59,548,A2,2011-04-01,1200000,713940,NY,True,True
+operate,sole_prop,125000,36,1.37,722,723,82,441,B4,1994-01-01,1000000,111998,NJ,False,True
+remodel,llc_multiple,200000,36,2.05,656,668,28,501,B4,2009-07-01,1500000,Full-Service Restaurants,MA,False,True
+operate,c_corp,50000,36,1.3,636,667,62,489,C4,2009-06-01,225000,334510,TX,False,True
+remodel,s_corp,75000,36,1.66,648,691,57,492,C1,2001-11-01,1000000,722511,CO,False,True
+new_business,llc_single,400000,36,1.76,770,779,51,514,A5,2010-01-01,5000000,Full-Service Restaurants,NY,False,True
+refinance,c_corp,100000,36,1.39,670,683,6,491,B5,2002-01-01,1200000,236110,CO,False,True
+new_business,s_corp,75000,36,1.93,701,715,58,506,B3,2003-08-01,1500000,Women's Clothing Stores,CA,False,True
+outfit,s_corp,200000,24,3.01,776,773,21,512,A3,2002-06-01,2600000,443142,CA,False,True
+operate,s_corp,40000,36,1.86,662,645,45,470,C1,2001-10-01,840000,484100,TX,False,True
+refinance,s_corp,37000,36,1.64,605,686,70,504,C1,1999-05-01,200000,541512,NH,False,True
+operate,llc_multiple,400000,36,1.92,716,734,28,471,B1,2010-07-01,3900000,Limited-Service Restaurants,CO,False,False
+operate,sole_prop,50000,36,1.32,771,781,49,532,A5,2008-01-01,550000,713900,MO,False,True
+operate,sole_prop,45000,36,1.52,720,691,0,498,B2,2012-09-01,232661,339900,CA,False,True
+expand,llc_multiple,150000,36,2.19,648,707,999,452,B1,2011-11-01,428845,611699,MA,False,True
+expand,llc_single,135000,36,1.81,650,714,57,448,D1,2011-03-01,1300000,446190,AZ,False,True
+inventory,s_corp,200000,24,1.28,709,723,16,482,C1,2011-01-01,4000000,Apparel Accessories and Other Apparel Manufacturing,NJ,False,True
+operate,llc_multiple,50000,36,3,699,711,46,452,B4,2011-04-01,300000,532220,NC,False,False
+inventory,s_corp,125000,36,1.3,752,780,61,513,A5,2012-08-01,1200000,Footwear Manufacturing,MA,False,True
+expand,llc_single,30000,24,2.53,652,682,10,396,C3,2011-03-01,350000,722513,WA,False,True
+operate,sole_prop,150000,36,1.53,654,733,85,482,B2,1998-04-01,1280000,531310,CA,False,True
+expand,s_corp,100000,36,2.83,681,684,67,439,B3,2012-05-01,678622,Offices of Lawyers,MN,False,True
+operate,s_corp,35000,12,1.65,597,664,42,406,B1,2007-03-01,575000,722300,ME,False,False
+refinance,llc_single,85000,36,1.17,775,715,61,438,A4,2000-05-12,325000,611610,CA,False,True
+expand,llc_multiple,150000,36,1.55,700,730,22,494,C3,2012-08-01,500000,541380,CA,False,True
+refinance,s_corp,110000,36,1.27,801,810,66,545,A5,2005-03-01,1400000,623000,CA,False,True
+expand,llc_single,300000,36,2.29,647,693,42,509,C2,2008-04-01,2146526,531210,FL,False,False
+expand,partnership,500000,36,1.46,718,734,61,522,A5,2010-07-01,2708247,Full-Service Restaurants,CO,False,False
+operate,s_corp,35000,24,1.56,648,657,18,472,B4,2011-02-01,650000,811490,FL,False,True
+outfit,llc_single,47000,24,1.26,618,635,46,488,C2,2013-02-01,248513,236100,KY,False,True
+refinance,s_corp,200000,36,2.63,704,691,17,467,C1,2010-01-01,3650000,Siding Contractors,IL,False,True
+expand,s_corp,200000,36,4.06,808,835,79,582,A1,2008-02-01,1658999,561730,NJ,False,True
+refinance,sole_prop,30000,24,2.17,671,622,69,420,B1,1989-01-01,244882,999999,CA,False,True
+new_business,s_corp,200000,36,1.39,744,748,35,570,A5,2002-10-01,800000,621110,FL,False,True
+refinance,sole_prop,50000,36,2.32,670,747,71,539,B1,1996-10-01,320000,611000,TX,False,True
+refinance,sole_prop,125000,36,1.5,710,676,5,399,C4,2006-03-01,547000,451140,NY,False,True
+outfit,s_corp,50000,36,3.43,712,773,20,493,B3,2004-12-01,1073000,238220,IL,False,True
+refinance,llc_single,250000,36,1.26,704,751,28,534,B4,2014-01-01,2200000,236000,CA,False,True
+other,llc_single,67000,36,2.46,727,678,58,498,B1,2003-07-01,750000,"Brick, Stone, and Related Construction Material Merchant Wholesalers",CT,False,True
+expand,llc_single,150000,24,1.98,674,662,30,476,C2,2014-07-01,350000,722511,MD,False,True
+operate,llc_single,50000,36,2.88,720,646,72,0,B3,2011-09-01,250000,423400,FL,False,True
+expand,llc_single,80000,36,4.01,729,756,36,None,B5,2014-02-01,675000,Software-Fundraising,DE,False,True
+expand,s_corp,100000,36,1.78,727,758,62,518,A3,2009-09-01,3200000,541990,WA,False,True
+new_business,llc_multiple,65000,36,1.16,746,728,67,514,A3,2012-05-01,254000,713940,DC,False,True
+expand,s_corp,500000,36,2.11,748,806,70,566,A2,2007-06-01,2400000,Educational Support Services,NY,True,True
+operate,s_corp,250000,36,1.52,740,757,54,264,B2,2011-08-01,11200000,General Contractor ,MA,False,True
+expand,llc_single,55000,36,5.19,631,655,86,465,B2,2008-09-01,252000,722300,KY,False,True
