@@ -17,7 +17,7 @@ Risk Factor is the sum of Rent Risk and Expectations Risk, which are both explai
 ## Failed Expectations Risk
 Expensive restaurants and shops typically focus on quality while cheaper places focus on quantity. Customer reviews are written based on whether these expectations were met. Good reviews are important for all businesses, but the impact of those reviews increases with price range. In a way this means 4 dollar signs and 1 star is the worst case, while 1 dollar sign and 5 stars is the best case. Checkout this table to see the possibilities (simplified with ratings and reviews from 1-3 only):
 
-![expectations]((/screenshots/screen_a.png?raw=true))
+![expectations](/screenshots/screen_a.png?raw=true)
 
 The actual values we'll be using for price_level are (1) Inexpensive (2) Moderate (3) Expensive (4) Very Expensive. Yelp does not expose prices so we get this from Google Places. For rating we use an avg between 1.0 and 5.0 which comes from both Yelp and Google places. Note that one scale is from 1-4 and the other is from 1-5. To handle that offset we will always subtract 1 from the reviews, mostly because 1 star is terrible even for price_level 1. Expectation risk is calculated as follows:
 
