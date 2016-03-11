@@ -10,14 +10,13 @@ Studies show the most common reason resteraunts and shops fail is:
 - Failed Expectations: Failed to deliver the quality expected by their target market
 - Real Estate: Could not keep up with rent increase
 
-Risk Factor is the sum of Rent Risk and Expectations Risk, which are both explained below.
-# TODO factor age in
+Risk Factor is the sum of Rent Risk and Expectations Risk, which are both explained below. (TODO factor business age in.)
 
 
 ## Failed Expectations Risk
 Expensive places (resteraunts, shops) typically focus on quality while cheaper places focus on quantity. Customer reviews are written based on whether these expecations were met. Good reviews are important for all businesses, but the impact of those reviews increases with price range. Yelp showing 4 dollar signs and 1 star is the worst case, and Yelp showing 1 dollar sign and 5 stars is the best case. Checkout this table to see the possibilities (simplified with raitings and reviews from 1-3 only):
 
-![expectations](http://s30.postimg.org/uapsn8n35/Untitled_spreadsheet_Google_Sheets.png).
+![expectations](http://s30.postimg.org/uapsn8n35/Untitled_spreadsheet_Google_Sheets.png)
 
 The actual values we'll be using for price_level are (1) Inexpensive (2) Moderate (3) Expensive (4) Very Expensive. Yelp does not expose prices so we get this from Google Places. For rating we use an avg between 1.0 and 5.0 which comes from both Yelp and Google places. Note that one scale is from 1-4 and the other is from 1-5. To handle that offset we will always subtract 1 from the reviews, mostly because 1 star is terrible even for price_level 1. Expectation risk is calculated as follows:
 
